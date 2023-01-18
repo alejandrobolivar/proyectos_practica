@@ -1,0 +1,4 @@
+'''
+Registro de compras personal.
+
+'''
